@@ -1,2 +1,2 @@
 # filecursion
-get all your files from your computer in a folder at once
+ Tool that help you to heap all "docx" files from child folders in current folder 
